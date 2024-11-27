@@ -1,5 +1,5 @@
 x
 y
-int a = 1 + 2
+int a = 1 + 2 + 6
 z
 zz
